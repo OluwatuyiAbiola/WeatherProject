@@ -15,7 +15,7 @@ app.post("/", function(req,res){
 
     //create a request/post from a user
     const query = req.body.cityName;
-    const apiKey = "f189c83ed85c53d15a09fe67bcfffdf8";
+    const apiKey = " ";
     const unit = "metric";
 
     //url for our open weather api
